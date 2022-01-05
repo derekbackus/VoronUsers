@@ -1,6 +1,6 @@
 # Trident Rear Rail Wire Cover
 
-This mod covers the wires on the back-rear extrusion so you don't have to look at them. This is the wire bundle that includes all the hot-end wires and the end-switch pod. 
+This mod covers the wires on the back-rear extrusion so you don't have to look at them. You know... the wire bundle that includes all the hot-end wires and the end-switch pod that gets zip-tied to the extrusion. 
 
 Print with standard Voron print settings, no supports.
 
