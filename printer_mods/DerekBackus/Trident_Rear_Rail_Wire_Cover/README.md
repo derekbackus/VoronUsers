@@ -2,6 +2,8 @@
 
 This mod covers the wires on the back-rear extrusion so you don't have to look at them. You know... the wire bundle that includes all the hot-end wires and the end-switch pod that gets zip-tied to the extrusion. 
 
+I use this to cover the wires and skip the zip-ties. You can probably keep the zip-ties and just use this to cover everything.
+
 Print with standard Voron print settings, no supports.
 
 <img src="Images/Side_View.png" width="300" alt="Side View">
